@@ -52,6 +52,12 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 # Setup For Deployment 👇
 
+
+## `SETTINGS`
+
+- CHANGE OWNER NUMBER [Here](https://github.com/Sibuuu07/ArctixBot-MD/bolb/ArctixBot-MD/config.js#L5)
+- CHANGE OWNER NAME [Here](https://github.com/Sibuuu07/ArctixBot-MD/bolb/ArctixBot-MD/config.js#L5 )
+
 ## ` BUILDPACKS`
 
 ```
@@ -110,3 +116,4 @@ npx pm2 start npm --node-args="--optimize_for_size --max_old_space_size=460" -- 
 ```
 # Thanks To 👇
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
+* [`Sibu`](https://github.com/Sibuuu07)
