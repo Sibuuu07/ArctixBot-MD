@@ -1,6 +1,6 @@
 const rewards = {
-  exp: 9999,
-  money: 4999,
+  exp: 9999999,
+  money: 4999999,
   potion: 5,
 }
 const cooldown = 86400000
