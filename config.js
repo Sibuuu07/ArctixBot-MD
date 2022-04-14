@@ -7,7 +7,7 @@ global.owner = [
   //['16149454333']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
+global.mods = [919337956084,16149454333] // Want some help?
 global.prems = ['919337956084,16149454333'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
