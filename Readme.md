@@ -1,4 +1,4 @@
-<h1 align="center">ꪶ𝐀𝐑𝐂𝐓𝐈𝐗 𝐁𝐎𝐓-𝐌𝐃𝐓ꫂ<br></h1>
+<h1 align="center">ꪶ𝐀𝐑𝐂𝐓𝐈𝐗 𝐁𝐎𝐓-𝐌𝐃ꫂ<br></h1>
 <P align="center">𝐀𝐫𝐜𝐭𝐢𝐱 × 𝐀𝐫𝐜𝐞𝐮𝐬 𝐢𝐧𝐜.</p>
 <p align="center">
   <img src="https://telegra.ph/file/acb583f82ec0ef24da54b.jpg" width="350" height="300" />
