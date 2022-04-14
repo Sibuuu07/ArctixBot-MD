@@ -1,5 +1,5 @@
 let handler = (t) => {
-    t.reply('*YOU WILL GET THE BOT SCRIPT ON MY YOUTUBE DRIPS OFC*')
+    t.reply('*https://github.com/Sibuuu07/ArctixBot-MD*')
 }
 
 handler.command = ['sc']
