@@ -1,8 +1,8 @@
 {
-  "name": "Zim Bot Inc",
+  "name": "𝐀𝐫𝐜𝐭𝐢𝐱 𝐢𝐧𝐜1.",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/zim-bot/zim-bot-md",
-  "logo": "https://i.imgur.com/rANDwCP.jpeg",
+  "repository": "https://github.com/Sibuuu07/zim-bot-md",
+  "logo": "https://telegra.ph/file/acb583f82ec0ef24da54b.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {

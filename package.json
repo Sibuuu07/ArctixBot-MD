@@ -1,5 +1,5 @@
 {
-    "name": "ZIM BOT INC",
+    "name": "𝐀𝐫𝐜𝐭𝐢𝐜 × 𝐀𝐫𝐜𝐞𝐮𝐬 𝐢𝐧𝐜.",
     "version": "7.0.0",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -14,16 +14,16 @@
         "cli": "node . --optimize_for_size --max_old_space_size=460 index.js",
         "db": "node . --autocleartmp --db 'mongodb+srv://ozan:Akhmad6825@cluster0.mflne.mongodb.net/zabotv6?retryWrites=true&w=majority'"
     },
-    "homepage": "https://github.com/zim-bot",
+    "homepage": "https://github.com/Sibuuu07",
     "author": {
-        "name": "ZIM BOT INC 2022"
+        "name": "𝐀𝐫𝐜𝐭𝐢𝐜 × 𝐀𝐫𝐜𝐞𝐮𝐬 𝐢𝐧𝐜."
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zim-bot/zim-bot"
+        "url": "git+https://github.com/Sibuuu07/zim-bot"
     },
     "bugs": {
-        "url": "https://github.com/zim-bot/zim-bot"
+        "url": "https://github.com/Sibuuu07/zim-bot"
     },
     "license": "MIT",
     "dependencies": {
