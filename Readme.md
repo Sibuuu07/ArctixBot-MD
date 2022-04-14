@@ -20,7 +20,7 @@ ArctixBot-MD Bot Multi Device is a automated whatsapp bot created by <a href="ht
 <a href="https://github.com/Sibuuu07/ArctixBot-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sibuuu07/ArctixBot-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Sibuuu07/ArctixBot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sibuuu07/ArctixBot-MD?color=red&style=flat-square"></a>
 <a href="https://github.com/Sibuuu07/ArctixBot-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Sibuuu07/ArctixBot-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Sibuuu07/ArctixBot-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-ArctixBot-MD%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/Sibuuu07/ArctixBot-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Arctix%20Bot%20Inc.-red?v=103"></a>
 <a href="https://github.com/Sibuuu07/ArctixBot-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Sibuuu07/ArctixBot-MD?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSibuuu07%2FArctixBot-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Sibuuu07/ArctixBot-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
