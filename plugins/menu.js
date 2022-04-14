@@ -2,7 +2,7 @@ import { promises } from 'fs'
 import { join } from 'path'
 import { xpRange } from '../lib/levelling.js'
 let tags = {
-  'main': '𝗭𝗜𝗠𝗕𝗢𝗧 𝗠𝗔𝗜𝗡',
+  'main': '𝗔𝗥𝗖𝗧𝗜𝗫 𝗕𝗢𝗧 𝗠𝗔𝗜𝗡',
   'game': '𝗚𝗔𝗠𝗘',
   'rpg': '𝗥𝗣𝗚 𝗚𝗔𝗠𝗘𝗦',
   'xp': '𝗫𝗣 & 𝗟𝗜𝗠𝗜𝗧',
@@ -24,8 +24,8 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-╭─━━━❰ 𝗭𝗜𝗠 𝗕𝗢𝗧 𝗜𝗡𝗖 ❱
-┃ 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗭𝗜𝗠𝗕𝗢𝗧
+╭─━━━❰ 𝐀𝐑𝐂𝐓𝐈𝐗 𝐁𝐎𝐓 𝐈𝐍𝐂❱
+┃ 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝐀𝐑𝐂𝐓𝐈𝐗 𝐁𝐎𝐓
 ┖━━━━━━━━━━━━━━━⦂
 
 ╭━━━━❰ 𝗨𝗦𝗘𝗥 ❱
@@ -45,7 +45,7 @@ const defaultMenu = {
   body: '┃ 🔮 %cmd %islimit %isPremium',
   footer: '╰━━━━━━━⦂\n',
   after: `
-𝐙𝐈𝐌𝐁𝐎𝐓 𝐈𝐍𝐂 |©𝐃𝐑𝐈𝐏𝐒
+𝐀𝐑𝐂𝐓𝐈𝐗 𝐁𝐎𝐓 𝐈𝐍𝐂 |©𝐒𝐢𝐛𝐬𝐬𝐬𝐬𝐬𝐬𝐬𝐬
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
@@ -147,7 +147,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
     const pp = await conn.profilePictureUrl(conn.user.jid, 'image').catch(_ => './src/avatar_contact.png')
-    conn.sendHydrated(m.chat, text.trim(), author, pp, 'https://youtu.be/EEol519BbXo', 'SUBSCRIBE', owner[0][0], 'OWNER', [
+    conn.sendHydrated(m.chat, text.trim(), author, pp, 'https://www.instagram.com/sibssssssss', 'INSTAGRAM', owner[0][0], 'OWNER', [
       ['BOTGROUP', '/donasi'],
       ['SPEED', '/ping'],
       ['OWNER', '/owner']

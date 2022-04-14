@@ -5,7 +5,7 @@ let handler = async (m, { conn, text }) => {
   let cc = text ? m : m.quoted ? await m.getQuotedObj() : false || m
   let teks = text ? text : cc.text
   conn.reply(m.chat, `_Send a broadcast message to ${groups.length} grup_`, m)
-  for (let id of groups) await conn.copyNForward(id, conn.cMod(m.chat, cc, /bc|broadcast/i.test(teks) ? teks : teks + '\n' + readMore + '「 ZIM BOT INC BROADCAST 」\n' + randomID(32)), true).catch(_ => _)
+  for (let id of groups) await conn.copyNForward(id, conn.cMod(m.chat, cc, /bc|broadcast/i.test(teks) ? teks : teks + '\n' + readMore + '「 𝐀𝐫𝐜𝐭𝐢𝐱 𝐢𝐧𝐜. 𝐁𝐫𝐨𝐚𝐝𝐜𝐚𝐬𝐭 」\n' + randomID(32)), true).catch(_ => _)
   m.reply('DONE Broadcast All Group :)')
 }
 handler.help = ['broadcastgroup', 'bcgc'].map(v => v + '')

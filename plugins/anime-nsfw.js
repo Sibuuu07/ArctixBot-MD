@@ -1,10 +1,10 @@
 let handler = async (m, {command, conn}) => {
     if (command == 'nsfwloli') {
-        m.reply('zim bot processing')
+        m.reply('Arctix Bot processing')
         let haha = await conn.getFile(`https://api-faza.herokuapp.com/api/wallpaper/nsfwloli?apikey=FZDEVELOPER`)
         conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['NEXT', `/${command}`]], m)
     } else {
-        m.reply('zim bot processing')
+        m.reply('Arctix Bot processing')
         let haha = await conn.getFile(`https://api-faza.herokuapp.com/api/nsfw/${command.replace('nsfw', '')}?apikey=FZDEVELOPER`)
         conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['NEXT', `/${command}`]], m)
     }
