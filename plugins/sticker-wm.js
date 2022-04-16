@@ -22,6 +22,6 @@ let handler = async (m, { conn, text }) => {
 }
 handler.help = ['wm','take']
 handler.tags = ['sticker']
-handler.command = /^(wm|take)$/i
+handler.command = /^(wm)$/i
 
 export default handler
