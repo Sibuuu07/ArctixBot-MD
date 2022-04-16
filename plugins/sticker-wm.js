@@ -20,8 +20,8 @@ let handler = async (m, { conn, text }) => {
     else throw 'Conversion failed'
   }
 }
-handler.help = ['wm']
+handler.help = ['wm','take']
 handler.tags = ['sticker']
-handler.command = /^wm$/i
+handler.command = /^(wm|take)$/i
 
 export default handler
