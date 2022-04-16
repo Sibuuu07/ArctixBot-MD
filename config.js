@@ -11,7 +11,7 @@ global.owner = [
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = ['919337956084,16149454333,358753264940'] // Premium user has unlimited limit
-global.prefa = ['#','!','/',''] //prefix
+global.prefix = ['#','!','/',''] //prefix
 global.APIs = { // API Prefix
   // name: 'https://website'
   bx: 'https://bx-hunter.herokuapp.com',
