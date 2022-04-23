@@ -3,23 +3,22 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['16149454333'],
-  ['358753264940'],
+  ['16149454333','Arctix',true],
+  ['358753264940','Arceus',true],
   ['919337956084', 'sibu', true],
   //['16149454333']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = ['919337956084,16149454333,358753264940'] // Premium user has unlimited limit
-global.prefix = ['#','!','/',''] //prefix
 global.APIs = { // API Prefix
   // name: 'https://website'
+  nrtm: 'https://nurutomo.herokuapp.com',
+  xteam: 'https://api.xteam.xyz',
   bx: 'https://bx-hunter.herokuapp.com',
   rey: 'https://server-api-rey.herokuapp.com',
   hardianto: 'https://hardianto.xyz',
   neoxr: 'https://neoxr-api.herokuapp.com',
-  nrtm: 'https://nurutomo.herokuapp.com',
-  xteam: 'https://api.xteam.xyz',
   zahir: 'https://zahirr-web.herokuapp.com',
   lol: 'https://api.lolhuman.xyz',
   caliph: 'https://caliphapi.com',
@@ -30,19 +29,9 @@ global.APIs = { // API Prefix
   LeysCoder: 'https://leyscoders-api.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey' (apikey kalian^_^)
-  'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://bx-hunter.herokuapp.com': 'Ikyy69',
-  'https://hardianto.xyz': 'hardianto',
-  'https://neoxr-api.herokuapp.com': 'yntkts',
-  'https://api.xteam.xyz': 'cristian9407',
-  'https://api.lolhuman.xyz': 'Dawnfrostkey',
-  'https://caliphapi.com': 'ELYASXD',
-  'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.me': 'apivinz',
-  'https://pencarikode.xyz': 'pais',
-  'https://fxc7-api.herokuapp.com': 'fxc7COOL',
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
+  // 'https://website': 'apikey'
+  'https://api.xteam.xyz': 'cristian9407'
+   
 }
 
 // Sticker WM
