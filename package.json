@@ -12,7 +12,7 @@
     "scripts": {
         "start": "node index.js",
         "cli": "node . --optimize_for_size --max_old_space_size=460 index.js",
-        "db": "node . --autocleartmp --db 'mongodb+srv://ozan:Akhmad6825@cluster0.mflne.mongodb.net/zabotv6?retryWrites=true&w=majority'"
+        "db": "node . --autocleartmp --db 'mongodb+srv://arctix:arctix@cluster0.o3gpk.mongodb.net/ArctixBot-MD?retryWrites=true&w=majority'"
     },
     "homepage": "https://github.com/Sibuuu07",
     "author": {
