@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-ArctixBot-MD Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Sibuuu07" target="_blank">ArctixBot-MD</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+ArctixBot-MD Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Sibuuu07" target="_blank">𝐀𝐫𝐜𝐭𝐢𝐱 𝐢𝐧𝐜.</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
