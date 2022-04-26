@@ -18,7 +18,7 @@ Not enough *${max - user.exp}* again!
 ${teks} 
 • 🧬Previous Level : ${before}
 • 🧬New Levels : ${user.level}
-• At what hour : ${new Date().toLocaleString('id-ID', { timeZone: 'Africa/Harare' })}
+• At what hour : ${new Date().toLocaleString('id-ID', { timeZone: 'Asia/Kolkata' })}
 *_The more you interact with Arctix bots, the higher your level_*
 `.trim()
         try {
