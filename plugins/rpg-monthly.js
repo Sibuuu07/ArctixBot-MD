@@ -1,12 +1,12 @@
 const rewards = {
-    exp: 5000000,
-    money: 499999999999999,
-    potion: 10000000000000000000000000000000000,
-    mythic: 999999999999999999999999999999999999,
-    legendary: 999999999999999999999999999999999999999
+    exp: 500000,
+    money: 49999,
+    potion: 10000,
+    mythic: 99,
+    legendary: 99
 }
 
-const cooldown = 1
+const cooldown = 2592000000
 let handler = async (m) => {
     let user = global.db.data.users[m.sender]
     if (new Date - user.lastmonthly < cooldown) throw `You have already claimed this monthly claim, wait for *${((user.lastmonthly + cooldown) - new Date()).toTimeString()}*`
