@@ -146,7 +146,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
       readmore: readMore
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-    const pp = await conn.profilePictureUrl(conn.user.jid, 'image').catch(_ => './src/avatar_contact.png')
+    const pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => './src/avatar_contact.png')
     conn.sendHydrated(m.chat, text.trim(), author, pp, 'https://www.instagram.com/sibssssssss', 'INSTAGRAM', owner[0][0], 'OWNER', [
       ['BOTGROUP', '/donasi'],
       ['SPEED', '/ping'],
