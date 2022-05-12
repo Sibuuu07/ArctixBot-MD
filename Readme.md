@@ -66,7 +66,10 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 heroku/nodejs
 ```
-
+# `Scan QR Code For Session`
+ 
+<a href="https://replit.com/@incarctix/Arctixinc?embed=1&output=1"><img title="𝙰𝚛𝚌𝚝𝚒𝚡 𝙸𝚗𝚌" src="https://repl.it/badge/github/quiec/whatsasena" width="150"></a>
+  <br><br><br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sibuuu07/ArctixBot-MD/)
 
 # Install Manually 👇
