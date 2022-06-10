@@ -15,6 +15,7 @@ handler.help = ['kick']
 handler.tags = ['group']
 handler.command = ['kick']
 
+handler.owner = true
 handler.group = true
 handler.botAdmin = true
 
